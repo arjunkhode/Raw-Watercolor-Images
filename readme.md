@@ -11,10 +11,10 @@
 <img src="https://github.com/arjunkhode/Watercolor/blob/master/boats.jpg" width="800">
 
 ##Chun Li
-<img src="https://github.com/arjunkhode/Watercolor/blob/master/Chun%20Li.jpg" width="600">
+<img src="https://github.com/arjunkhode/Watercolor/blob/master/Chun%20Li.jpg" width="500">
 
 ##Rock musician
-<img src="https://github.com/arjunkhode/Watercolor/blob/master/Rock%20musician.jpg" width="800">
+<img src="https://github.com/arjunkhode/Watercolor/blob/master/Rock%20musician.jpg" width="700">
 
 ##Taylor Swift
 <img src="https://github.com/arjunkhode/Watercolor/blob/master/Taylor%20Swift.jpg" width="800">
@@ -23,4 +23,4 @@
 <img src="https://github.com/arjunkhode/Watercolor/blob/master/The%20red%20blue%20girl.jpg" width="800">
 
 ##Jimmey Page
-<img src="https://github.com/arjunkhode/Watercolor/blob/master/Jimmy%20Page.jpg" width="700">
+<img src="https://github.com/arjunkhode/Watercolor/blob/master/Jimmy%20Page.jpg" width="600">
