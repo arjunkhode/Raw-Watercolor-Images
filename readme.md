@@ -17,7 +17,7 @@
 <img src="https://github.com/arjunkhode/Watercolor/blob/master/Rock%20musician.jpg" width="700">
 
 ##Taylor Swift
-<img src="https://github.com/arjunkhode/Watercolor/blob/master/Taylor%20Swift.jpg" width="800">
+<img src="https://github.com/arjunkhode/Watercolor/blob/master/Taylor%20Swift.jpg" width="700">
 
 ##Red-blue girl
 <img src="https://github.com/arjunkhode/Watercolor/blob/master/The%20red%20blue%20girl.jpg" width="800">
