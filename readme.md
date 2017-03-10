@@ -3,7 +3,6 @@
  Creative Commons License
  Use them as long as you quote my name :)
 
-<ol>
 ##Padme Amidala
 <img src="https://github.com/arjunkhode/Watercolor/blob/master/Padme%20Amidala.jpg" width="800">
 
@@ -27,6 +26,5 @@
 
 ##Green Lion
 
-<img src="https://github.com/arjunkhode/Raw-Watercolor-Images/blob/master/Lion2.jpg
-" width="600">
+<img src="https://github.com/arjunkhode/Raw-Watercolor-Images/blob/master/Lion2.jpg" width="600">
 
