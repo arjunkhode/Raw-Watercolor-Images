@@ -22,5 +22,11 @@
 ##Red-blue girl
 <img src="https://github.com/arjunkhode/Watercolor/blob/master/The%20red%20blue%20girl.jpg" width="800">
 
-##Jimmey Page
+##Jimmy Page
 <img src="https://github.com/arjunkhode/Watercolor/blob/master/Jimmy%20Page.jpg" width="600">
+
+##Green Lion
+
+<img src="https://github.com/arjunkhode/Raw-Watercolor-Images/blob/master/Lion2.jpg
+" width="600">
+
