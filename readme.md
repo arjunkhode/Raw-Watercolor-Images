@@ -1,6 +1,6 @@
 #Raw Watercolor Images
- ©The Sagittarius Me - Arjun Khode
- Creative Commons License
+ ©The Sagittarius Me - Arjun Khode.
+ Creative Commons License.
  Use them as long as you quote my name :)
 
 <ol>
